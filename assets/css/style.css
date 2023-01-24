@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+    margin: 0 20px;
+    border-radius: 10px;
+}
+
+#blue-container {
+    background-color: blue;
+}
+
+#green-container {
+    background-color: green;
+}
+
+#red-container {
+    background-color: red;
+}
+
+#yellow-container {
+    background-color: yellow;
+}
